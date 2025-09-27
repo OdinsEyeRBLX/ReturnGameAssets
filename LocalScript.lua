@@ -111,7 +111,7 @@ end)
 local reopenBtn = Instance.new("ImageButton")
 reopenBtn.Size = UDim2.new(0, 40, 0, 40)
 reopenBtn.Position = UDim2.new(1, -50, 1, -50)
-reopenBtn.Image = "rbxassetid://107286648255034"
+reopenBtn.Image = "rbxassetid://74742955012320"
 reopenBtn.BackgroundColor3 = Color3.fromRGB(255, 140, 0)
 reopenBtn.BackgroundTransparency = 0.4
 reopenBtn.Parent = gui
